@@ -1,0 +1,26 @@
+.margin-center {
+  right: 0;
+  left: 0;
+  margin: auto;
+}
+@media screen and (min-width: 1277px) {
+  .wrapper .supernatant .text {
+    font-size: 60px;
+  }
+  .wrapper .supernatant .text .f11 {
+    margin-top: 2.5%;
+  }
+  .wrapper .supernatant .text #single {
+    font-size: 30px;
+    margin-top: 3%;
+  }
+  .wrapper .supernatant .text .request {
+    margin-top: 5.5%;
+  }
+  .wrapper footer .footer-text {
+    font-size: 54.27px;
+  }
+  .wrapper footer .footer-text-two {
+    font-size: 25.6px;
+  }
+}

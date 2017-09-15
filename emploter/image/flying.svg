@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="194px" height="175px" viewBox="0 0 194 175" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>517E0448-5650-492F-8591-2078123E7A60</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <circle id="path-1" cx="24.5365969" cy="23.9313148" r="19.5"></circle>
+        <circle id="path-3" cx="18.457006" cy="19.8579087" r="15.5"></circle>
+    </defs>
+    <g id="首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Employer-Copy-2" transform="translate(-465.000000, -1186.000000)">
+            <g id="2" transform="translate(465.000000, 1186.000000)">
+                <ellipse id="Oval-11" fill="#90C9FB" cx="96.5" cy="87" rx="64.5" ry="65"></ellipse>
+                <ellipse id="Oval-11-Copy" fill="#BCE1FE" cx="100" cy="83.5" rx="60" ry="60.5"></ellipse>
+                <path d="M35.2494989,66.1606795 C15.7267215,70.1307898 2.69778355,78.0390059 0.990170679,88.8204492 C-2.31810924,109.708107 38.11993,133.470424 91.3110592,141.895072 C144.502188,150.319719 190.304009,140.216453 193.612289,119.328796 C195.540975,107.151555 182.60141,93.9972906 160.93467,83.4746388 C160.978069,84.4440961 161,85.4191301 161,86.3992784 C161,89.0763038 160.848582,91.5084379 160.55335,93.7173797 C167.851335,99.6564073 171.651577,106.017594 170.693967,112.063701 C168.131215,128.244281 132.463031,136.040994 91.0268472,129.478147 C49.5906637,122.915301 18.077521,104.478111 20.6402731,88.2975311 C21.4840556,82.9700977 25.9166209,78.5515145 32.962239,75.2550663 C33.5063496,72.1410172 34.274507,69.1038314 35.2495175,66.1606757 Z" id="Combined-Shape" fill="#6F4FED" opacity="0.604166667"></path>
+                <g id="Oval-+-Oval-Copy-2-Mask" transform="translate(125.348873, 145.104753) rotate(-11.000000) translate(-125.348873, -145.104753) translate(101.348873, 121.104753)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#E5F3FF" xlink:href="#path-1"></use>
+                    <circle id="Oval" fill="#90C9FB" mask="url(#mask-2)" cx="24.6230171" cy="20.0584027" r="7"></circle>
+                    <circle id="Oval-Copy-2" fill="#90C9FB" mask="url(#mask-2)" cx="25.8656447" cy="42.2130379" r="12.5"></circle>
+                    <path d="M38.3441601,0.785734837 L47.3441601,0.785734837 L47.3441601,9.78573484 M47.1556175,38.4416036 L47.1556175,47.4416036 L38.1556175,47.4416036 M9.49974875,47.253061 L0.499748752,47.253061 L0.499748752,38.253061 M0.688291297,9.59719229 L0.688291297,0.597192292 L9.6882913,0.597192292" id="Rectangle-36-Copy" stroke="#90C9FB" stroke-width="2.916" stroke-linecap="round"></path>
+                </g>
+                <g id="Oval-+-Oval-Copy-2-Mask-Copy" transform="translate(153.898568, 23.763228) rotate(13.000000) translate(-153.898568, -23.763228) translate(135.398568, 4.763228)">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <use id="Mask" fill="#E5F3FF" xlink:href="#path-3"></use>
+                    <circle id="Oval" fill="#90C9FB" mask="url(#mask-4)" cx="18.7307702" cy="16.7227603" r="5.5"></circle>
+                    <circle id="Oval-Copy-2" fill="#90C9FB" mask="url(#mask-4)" cx="17.929682" cy="33.7359581" r="10"></circle>
+                    <path d="M30.3036212,1.12335742 L36.3036212,1.12335742 L36.3036212,7.12335742 M36.9809814,30.7297956 L36.9809814,36.7297956 L30.9809814,36.7297956 M6.40017311,37.6321069 L0.400173108,37.6321069 L0.400173108,31.6321069 M0.472231931,6.82634754 L0.472231931,0.826347545 L6.47223193,0.826347545" id="Rectangle-36-Copy" stroke="#90C9FB" stroke-width="2.268" stroke-linecap="round"></path>
+                </g>
+                <ellipse id="Oval-3-Copy-8" fill="#90C9FB" transform="translate(56.959156, 87.288043) rotate(-7.000000) translate(-56.959156, -87.288043) " cx="56.9591562" cy="87.2880431" rx="18.6362297" ry="20.2006349"></ellipse>
+                <ellipse id="Oval-3-Copy-9" fill="#E5F3FF" transform="translate(58.643162, 86.994220) rotate(-7.000000) translate(-58.643162, -86.994220) " cx="58.6431616" cy="86.9942197" rx="16.4373304" ry="19.1035216"></ellipse>
+                <ellipse id="Oval-3-Copy-10" fill="#90C9FB" transform="translate(78.609530, 56.547568) rotate(-7.000000) translate(-78.609530, -56.547568) " cx="78.6095298" cy="56.5475677" rx="11.3267248" ry="11.2187429"></ellipse>
+                <ellipse id="Oval-3-Copy-11" fill="#E5F3FF" transform="translate(79.323592, 56.260743) rotate(-7.000000) translate(-79.323592, -56.260743) " cx="79.3235915" cy="56.2607435" rx="10.1658449" ry="10.1217391"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,50 @@
+.transition(@time){
+  transition: @time;
+  -moz-transition: @time; /* Firefox 4 */
+  -webkit-transition: @time; /* Safari 和 Chrome */
+  -o-transition: @time;
+}
+
+
+.font(@width,@height,@FZ,@text-align,@color){
+  width: @width;
+  height: @height;
+  font-family: ProductSans;
+  font-size: @FZ;
+  line-height: 1.25;
+  text-align: @text-align;
+  color: @color;
+}
+
+.margin-center{
+  right:0;
+  left: 0;
+  margin: auto;
+}
+@media screen and (min-width: 1277px){
+  .wrapper {
+    .supernatant{
+      .text {
+        font-size: 60px;
+        .f11{
+          margin-top: 2.5%;
+        }
+        #single {
+          font-size: 30px;
+          margin-top: 3%;
+        }
+        .request{
+          margin-top: 5.5%;
+        }
+      }
+    }
+    footer{
+      .footer-text{
+        font-size: 54.27px;
+      }
+      .footer-text-two{
+        font-size:25.6px;
+      }
+    }
+  }
+}
